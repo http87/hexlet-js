@@ -1,0 +1,2 @@
+# исключаем node_modules из репозитория git
+/node_modules/
